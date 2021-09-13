@@ -1,0 +1,82 @@
+[
+    {
+        "SNo": 1,
+        "Name": "Orange",
+        "Quantity": 3,
+        "Unit": "kg",
+        "Department": "Fruit",
+        "Notes": "Juicy Orange"
+    },
+    {
+        "SNo": 2,
+        "Name": "Water Melon",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": "Fruit",
+        "Notes": "Dark green coloured"
+    },
+    {
+        "SNo": 3,
+        "Name": "Egg",
+        "Quantity": 10,
+        "Unit": "No",
+        "Department": "Non-veg",
+        "Notes": "Brown Eggs"
+    },
+    {
+        "SNo": 4,
+        "Name": "Chicken",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": " Non-veg",
+        "Notes": "Biriyani piece"
+    },
+    {
+        "SNo": 5,
+        "Name": "Onion",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "None"
+    },
+    {
+        "SNo": 6,
+        "Name": "Tomato",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "None"
+    },
+    {
+        "SNo": 7,
+        "Name": "Rice",
+        "Quantity": 10,
+        "Unit": "kg",
+        "Department": "Cereals",
+        "Notes": "Basmathi"
+    },
+    {
+        "SNo": 8,
+        "Name": "Dal",
+        "Quantity": 1,
+        "Unit": "kg",
+        "Department": "Cereals",
+        "Notes": "Orange Dal"
+    },
+    {
+        "SNo": 9,
+        "Name": "Milk",
+        "Quantity": 3,
+        "Unit": "L",
+        "Department": "Dairy Product",
+        "Notes": "Cow milk"
+    },
+    {
+        "SNo": 10,
+        "Name": "Vermicelli",
+        "Quantity": 1,
+        "Unit": "pack",
+        "Department": "Pasta",
+        "Notes": "Roasted"
+    }
+]
